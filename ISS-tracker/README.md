@@ -59,3 +59,8 @@ docker exec -it [container_id] pytest /app/test_iss_tracker.py
 Replace `[container_id]` with the actual ID of the running container. You can find it by running `docker ps`.
 
 Expected output will show the test results, indicating pass or fail statuses for each test case.
+
+## Project Significance
+- **Educational Tool**: Serves as an engaging tool for educators and students to explore and understand the dynamics of the ISS's orbit around Earth.
+- **Open Data Advocacy**: Demonstrates the practical use of open data provided by space agencies, promoting transparency and accessibility in space exploration data.
+- **Real-Time Tracking**: Provides the public with a real-time connection to space exploration efforts, fostering a sense of participation and interest in ongoing space missions.
