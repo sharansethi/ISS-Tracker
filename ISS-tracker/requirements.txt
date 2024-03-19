@@ -1,0 +1,12 @@
+pytest==8.0.0
+Flask==3.0.2
+requests
+geopy
+astropy
+astropy.time
+datetime
+logging
+pytz
+math
+typing
+xml.etree.ElementTree as ET
